@@ -1,4 +1,4 @@
-|| Vertical 2-Phase Separator (V-2P.exe) ||
+##|| Vertical 2-Phase Separator (V-2P.exe) ||
 
 Vertical 2-Phase separator design or sizing is normal for a process engineer's life when he deals with many configurations like Knock-out drums for various applications.
 
